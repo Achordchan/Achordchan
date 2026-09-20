@@ -24,11 +24,6 @@ AI translation assistant for WhatsApp Web, designed for multilingual customer co
 
 Repository: https://github.com/Achordchan/WA-AI-Chrome
 
-### SpringApex
-
-A WordPress theme and local PHP preview workflow for a precision spring manufacturing business website.
-
-Repository: https://github.com/Achordchan/springapex
 
 ### Achord Review
 
@@ -42,14 +37,6 @@ A macOS translation utility focused on fast daily multilingual workflows.
 
 Repository: https://github.com/Achordchan/bagayalu-translate
 
-## Open-source contribution
-
-I contribute fixes that turn unclear technical failures into actionable user-facing diagnostics, with reproducible evidence and tests.
-
-Recent contribution:
-
-- Hiddify App: report the real cause when the background core fails to start
-- Pull request: https://github.com/hiddify/hiddify-app/pull/2336
 
 ## Writing topics
 
